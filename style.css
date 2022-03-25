@@ -1,0 +1,43 @@
+body {
+    padding: 20px 50px;
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.card h5 {
+    margin-bottom: 20px;
+    
+}
+
+svg {
+    margin-right: 5px;
+}
+
+btn {
+    text-align: left;
+}
+
+.question .card {
+    width: 18rem;
+}
+
+.title {
+    width: 18rem;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 18rem;
+    margin: auto;
+    margin-bottom: 20px;
+}
